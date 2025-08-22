@@ -2,8 +2,6 @@
 
 use case1;
 
-We havenot created any columns instead used weekly sales table columns which is already created.
-
 select * from clean_weekly_sales
 
 CREATE TABLE clean_weekly_sales AS
